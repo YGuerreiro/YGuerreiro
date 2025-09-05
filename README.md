@@ -18,7 +18,7 @@
 <br>
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/YGuerreiro/YGuerreiro/main/gif-1.gif" width="250px">
+  <img src="https://raw.githubusercontent.com/YGuerreiro/YGuerreiro/main/gif_1.gif" width="250px">
 </div>
       
 <br>
