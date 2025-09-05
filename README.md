@@ -12,13 +12,13 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0000FF&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Software+Developer;I'm+a+Pixel+Artistc;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0000FF&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Game+Developer;I'm+a+Pixel+Artistc;Welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <img src="![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)" />
 </div>
       
 <br>
