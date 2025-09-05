@@ -17,7 +17,9 @@
 
 <br>
 
+<p align="right">
 <img src= "https://pa1.aminoapps.com/7508/0997e4167dce02eb47314d4c72cf90847d86a1e3r1-294-168_00.gif" width="250" />
+</p>
       
 <br>
 <br>
