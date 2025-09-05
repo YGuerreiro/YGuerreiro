@@ -18,7 +18,7 @@
 <br>
 
 <p align="right">
-<img src= "assets/gif_1.gif" width="250" />
+<img src= "gif_1.gif" width="250">
 </p>
       
 <br>
