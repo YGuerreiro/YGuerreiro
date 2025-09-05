@@ -17,9 +17,9 @@
 
 <br>
 
-<p align="right">
-  <img src="https://s5.ezgif.com/tmp/ezgif-528e40264872f.gif" width="250px">
-</p>
+<div align="right">
+  <img src="https://raw.githubusercontent.com/YGuerreiro/YGuerreiro/main/gif-1.gif" width="250px">
+</div>
       
 <br>
 <br>
