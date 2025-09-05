@@ -17,9 +17,7 @@
 
 <br>
 
-<div align="center">
 ![Image](https://github.com/user-attachments/assets/53a8f0ce-1508-4b94-8c3f-4545ed4b9988)
-</div>
       
 <br>
 <br>
