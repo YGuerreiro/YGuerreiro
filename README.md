@@ -17,7 +17,7 @@
 
 <br>
 
-<img src= "[![Image](https://github.com/user-attachments/assets/53a8f0ce-1508-4b94-8c3f-4545ed4b9988) ](https://pa1.aminoapps.com/7508/0997e4167dce02eb47314d4c72cf90847d86a1e3r1-294-168_00.gif)" width="250" />
+<img src= "https://pa1.aminoapps.com/7508/0997e4167dce02eb47314d4c72cf90847d86a1e3r1-294-168_00.gif" width="250" />
       
 <br>
 <br>
